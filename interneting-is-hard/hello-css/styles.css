@@ -1,0 +1,25 @@
+body {
+	color:#414141; /* Dark Grey */
+	background-color: #eeeeee; /* Light Gray */
+	font-size: 18px;
+	text-align: right;
+}
+
+h1 {
+	font-size:2em;
+	background-color:#fff;
+	text-align: left;
+}
+
+h2 {
+	font-size:1.5em;
+}
+
+ul {
+	list-style-type: none;
+	text-align: justify;
+}
+
+a{
+	text-decoration: none;
+}
